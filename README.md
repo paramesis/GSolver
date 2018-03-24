@@ -1,2 +1,2 @@
 # GSolver
-Global Solver for grid based logic puzzles
+Global Solver under development for grid based logic puzzles
