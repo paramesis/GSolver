@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 465 695" enable-background="new 0 0 465 695" xml:space="preserve">
 <g id="Underlay">
-	<polygon fill="#B3B3B3" opacity=".2" points="465,695 0,695 0,35 35,35 35,0 465,0 	"/>
+	<polygon fill="#000000" points="465,695 0,695 0,35 35,35 35,0 465,0 	"/>
 </g>
 <g id="_x30_">
 	<g id="LWPOLYLINE_31_">
