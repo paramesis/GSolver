@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_x30_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 470 105" enable-background="new 0 0 470 105" xml:space="preserve">
+<g id="LWPOLYLINE_5_">
+	<rect fill="#FFDBB3" width="470" height="105"/>
+</g>
+<g id="LWPOLYLINE_4_">
+	<rect x="10" y="30" fill="#FFB866" width="450" height="65"/>
+</g>
+<g id="LWPOLYLINE">
+	<rect x="20" y="60" fill="#DD7700" width="100" height="25"/>
+</g>
+<g id="LWPOLYLINE_1_">
+	<polygon fill="#DD7700" points="230,85 130,85 120,72.5 130,60 230,60 	"/>
+</g>
+<g id="LWPOLYLINE_2_">
+	<polygon fill="#DD7700" points="340,85 240,85 230,72.5 240,60 340,60 	"/>
+</g>
+<g id="LWPOLYLINE_3_">
+	<polygon fill="#DD7700" points="450,85 350,85 340,72.5 350,60 450,60 	"/>
+</g>
+<g id="MTEXT">
+	<text transform="matrix(1 0 0 1 37.2729 76.4004)" font-family="Arial" font-variant="small-caps" font-weight="bold" font-size="14px">topology</text>
+</g>
+<g id="MTEXT_1_">
+	<text transform="matrix(1 0 0 1 165.1206 76.4004)" font-family="Arial" font-variant="small-caps" font-weight="bold" font-size="14.1243px">grid</text>
+</g>
+<g id="MTEXT_2_">
+	<text transform="matrix(1 0 0 1 262.9097 76.4004)" font-family="Arial" font-variant="small-caps" font-weight="bold" font-size="14.1243px">toposet</text>
+</g>
+<g id="MTEXT_3_">
+	<text transform="matrix(1 0 0 1 371.9307 76.4004)" font-family="Arial" font-variant="small-caps" font-weight="bold" font-size="14.1243px">element</text>
+</g>
+<g id="MTEXT_4_">
+	<text transform="matrix(1 0 0 1 205.9219 49.9219)" font-family="Arial" font-variant="small-caps" font-weight="bold" font-size="14.1243px">container</text>
+</g>
+<g id="MTEXT_5_">
+	<text transform="matrix(1 0 0 1 208.4063 18.6172)" font-family="Arial" font-variant="small-caps" font-weight="bold" font-size="14.1243px">template</text>
+</g>
+</svg>
